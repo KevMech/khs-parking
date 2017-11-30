@@ -17,7 +17,7 @@ Downloadable spreadsheet of students, and their spots
 
 ## Schedule
 
-'Week of 12/04/2017:'
+Week of 12/04/2017:
 Decide which environment to develop web app in and begin learning how to develop in that environment
 
 Week of 12/11/2017: 
