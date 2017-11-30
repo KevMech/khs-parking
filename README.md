@@ -18,7 +18,8 @@ Downloadable spreadsheet of students, and their spots
 ## Schedule
 
 Week of 12/04/2017:
-Decide which environment to develop web app in and begin learning how to develop in that environment
+Decide which environment to develop web app in and begin learning how to develop in that environment. 
+Begin drafting secure login (Juan)
 
 Week of 12/11/2017: 
 Begin programing logic and assignment methods (Kevin) and begin implementing the web based environment (Juan)
